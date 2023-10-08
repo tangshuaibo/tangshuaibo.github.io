@@ -1,1 +1,9 @@
-vuepress && vuepress-theme-reco
+* [vuepress](https://v2.vuepress.vuejs.org/zh/)
+* [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
+* [tailwindcss](https://tailwind.nodejs.cn/)
+* [waline](https://waline.js.org/)
+* [hitokoto](https://developer.hitokoto.cn/)
+* [vercel](https://vercel.com/)
+* [leancloud](https://leancloud.app/)
+* [waline-server](https://<your-domain>.vercel.app/)
+* [waline-management](https://<your-domain>.vercel.app/ui/register)
